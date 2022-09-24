@@ -15,6 +15,7 @@ public class DemoApplication {
         System.out.println("00005----master----版本");
         System.out.println("00005---dev-----版本");
         System.out.println("00005---push-----版本");
+        System.out.println("00005---pull -----版本");
     }
 
 }
